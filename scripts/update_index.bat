@@ -1,4 +1,4 @@
 cd %~dp0..
-node indexer\indexer.js
 node indexer\check.js
+node indexer\indexer.js
 pause
