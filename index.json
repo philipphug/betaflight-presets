@@ -169,6 +169,17 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/dji.txt",
+      "hash": "c39201b583ca79ee01c70b0a2246d9761da8431f5731e8d2a55b9563671fd61f",
+      "title": "DJI OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
       "hash": "fe6be880bb051e1294253d2f583def5c9ad8c540d3463540ec9b80fa2a5d775a",
       "title": "Reset ALL RC link related settings",
