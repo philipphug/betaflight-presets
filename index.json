@@ -140,10 +140,12 @@
       "RC_LINK"
     ],
     "author": [
-      "Betaflight"
+      "Betaflight",
+      "Philipp Hug"
     ],
     "keywords": [
       "defaults",
+      "DJI",
       "OSD",
       "rc link",
       "rc_link",
@@ -153,7 +155,7 @@
   "presets": [
     {
       "fullPath": "presets/4.4/osd/defaults.txt",
-      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
+      "hash": "8d9348fc574fbc0731a6122994f1b3348535303112330bb33ab3ec65c1dc0e55",
       "title": "Default 4.4 OSD settings",
       "firmware_version": [
         "4.4"
@@ -170,13 +172,18 @@
     },
     {
       "fullPath": "presets/4.4/osd/dji.txt",
-      "hash": "c39201b583ca79ee01c70b0a2246d9761da8431f5731e8d2a55b9563671fd61f",
+      "hash": "8f70aac7a206225af31795c4b430535eefc8e07ae1cda1621a902f58acdedebc",
       "title": "DJI OSD",
       "firmware_version": [
         "4.4"
       ],
       "category": "OSD",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD",
+        "DJI"
+      ],
+      "author": "Philipp Hug",
       "priority": 0
     },
     {
