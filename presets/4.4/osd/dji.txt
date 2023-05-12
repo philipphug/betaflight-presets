@@ -1,0 +1,36 @@
+#$ TITLE:  DJI OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+
+#$ INCLUDE: presets/4.4/osd/defaults.txt
+
+set osd_link_quality_alarm = 50
+set osd_cap_alarm = 3800
+set osd_alt_alarm = 1000
+set osd_tim1 = 0
+set osd_tim2 = 1
+set osd_vbat_pos = 2728
+set osd_rssi_pos = 264
+set osd_link_quality_pos = 2376
+set osd_tim_2_pos = 3125
+set osd_flymode_pos = 3093
+set osd_throttle_pos = 388
+set osd_crosshairs_pos = 238
+set osd_current_pos = 2734
+set osd_mah_drawn_pos = 2697
+set osd_gps_speed_pos = 2504
+set osd_gps_lon_pos = 16392
+set osd_gps_lat_pos = 16424
+set osd_gps_sats_pos = 2407
+set osd_home_dir_pos = 2440
+set osd_home_dist_pos = 2440
+set osd_altitude_pos = 18856
+set osd_warnings_pos = 2201
+set osd_pit_ang_pos = 2748
+set osd_rol_ang_pos = 3747
+set osd_disarmed_pos = 2395
+set osd_displayport_device = MSP
+set osd_canvas_width = 60
+set osd_canvas_height = 22
+set vcd_video_system = HD
