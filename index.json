@@ -155,7 +155,7 @@
   "presets": [
     {
       "fullPath": "presets/4.4/osd/defaults.txt",
-      "hash": "571f4afaa04c7a3c8b02868825af225729f599898227dd264830d3a7142bb967",
+      "hash": "0f03f6a111894d5cb149e5c9b33ec2fe850ea8d8d1c210eb8eb84b0e06732d5c",
       "title": "Default 4.4 OSD settings",
       "firmware_version": [
         "4.4"
