@@ -155,7 +155,7 @@
   "presets": [
     {
       "fullPath": "presets/4.4/osd/defaults.txt",
-      "hash": "0f03f6a111894d5cb149e5c9b33ec2fe850ea8d8d1c210eb8eb84b0e06732d5c",
+      "hash": "fd8eeeb14d76b1d32faecf0e3ba5f763c6f0c3446506fa7c28d3eba63a6df976",
       "title": "Default 4.4 OSD settings",
       "firmware_version": [
         "4.4"
@@ -187,8 +187,8 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
-      "hash": "fe6be880bb051e1294253d2f583def5c9ad8c540d3463540ec9b80fa2a5d775a",
+      "fullPath": "presets/4.4/rc_link/defaults.txt",
+      "hash": "1ac47e82c2579f5f2e4e47258eed1a708be0a29d2b7b90015e51000e955b5ce9",
       "title": "Reset ALL RC link related settings",
       "firmware_version": [
         "4.4"
@@ -202,7 +202,7 @@
         "rc_link"
       ],
       "author": "Betaflight",
-      "priority": 0
+      "priority": 10000000000
     }
   ]
 }
