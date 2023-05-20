@@ -1,9 +1,9 @@
 #$ TITLE: Default 4.4 OSD settings
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
-#$ STATUS: OFFICIAL
+#$ STATUS: COMMUNITY
 #$ KEYWORDS: defaults, reset, OSD
-#$ AUTHOR: Betaflight
+#$ AUTHOR: Philipp Hug
 #$ DESCRIPTION: Resets the OSD values back to Betaflight 4.4 defaults
 
 set osd_adjustment_range_pos = 234

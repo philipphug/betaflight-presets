@@ -140,7 +140,6 @@
       "RC_LINK"
     ],
     "author": [
-      "Betaflight",
       "Philipp Hug"
     ],
     "keywords": [
@@ -155,19 +154,19 @@
   "presets": [
     {
       "fullPath": "presets/4.4/osd/defaults.txt",
-      "hash": "fd8eeeb14d76b1d32faecf0e3ba5f763c6f0c3446506fa7c28d3eba63a6df976",
+      "hash": "e5e6f7a381f6ba9c29a60b068e7669af274001d9eb002c78b55531dcc8007297",
       "title": "Default 4.4 OSD settings",
       "firmware_version": [
         "4.4"
       ],
       "category": "OSD",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "defaults",
         "reset",
         "OSD"
       ],
-      "author": "Betaflight",
+      "author": "Philipp Hug",
       "priority": 0
     },
     {
@@ -188,20 +187,20 @@
     },
     {
       "fullPath": "presets/4.4/rc_link/defaults.txt",
-      "hash": "37f055bd7260adcb8e816a78e48ff0e26fb74b27642fda33e79989cedbf78e67",
+      "hash": "7780626cc92222a40a4f32b9a22d8fe33c9a68a2a3dc047beb53538b52b16cb9",
       "title": "Default 4.4 RC Link settings",
       "firmware_version": [
         "4.4"
       ],
       "category": "RC_LINK",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "defaults",
         "reset",
         "rc link",
         "rc_link"
       ],
-      "author": "Betaflight",
+      "author": "Philipp Hug",
       "priority": 10000000000
     }
   ]

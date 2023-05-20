@@ -1,9 +1,9 @@
 #$ TITLE: Default 4.4 RC Link settings
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RC_LINK
-#$ STATUS: OFFICIAL
+#$ STATUS: COMMUNITY
 #$ KEYWORDS: defaults, reset, rc link, rc_link
-#$ AUTHOR: Betaflight
+#$ AUTHOR: Philipp Hug
 #$ DESCRIPTION: Resets all RC Link related parameters to 4.4 defaults.
 
 rc_smoothing = ON
