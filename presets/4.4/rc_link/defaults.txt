@@ -1,0 +1,22 @@
+#$ TITLE: Default 4.4 RC Link settings
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: RC_LINK
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, reset, rc link, rc_link
+#$ AUTHOR: Betaflight
+#$ DESCRIPTION: Resets all RC Link related parameters to 4.4 defaults.
+
+rc_smoothing = ON
+rc_smoothing_auto_factor = 30
+rc_smoothing_auto_factor_throttle = 30
+rc_smoothing_debug_axis = ROLL
+rc_smoothing_feedforward_cutoff = 0
+rc_smoothing_setpoint_cutoff = 0
+rc_smoothing_throttle_cutoff = 0
+
+feedforward_averaging = OFF
+feedforward_boost = 15
+feedforward_jitter_factor = 7
+feedforward_max_rate_limit = 90
+feedforward_smooth_factor = 25
+feedforward_transition = 0
