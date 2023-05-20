@@ -188,8 +188,8 @@
     },
     {
       "fullPath": "presets/4.4/rc_link/defaults.txt",
-      "hash": "1ac47e82c2579f5f2e4e47258eed1a708be0a29d2b7b90015e51000e955b5ce9",
-      "title": "Reset ALL RC link related settings",
+      "hash": "37f055bd7260adcb8e816a78e48ff0e26fb74b27642fda33e79989cedbf78e67",
+      "title": "Default 4.4 RC Link settings",
       "firmware_version": [
         "4.4"
       ],
