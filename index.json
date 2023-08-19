@@ -171,7 +171,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/dji.txt",
-      "hash": "8f70aac7a206225af31795c4b430535eefc8e07ae1cda1621a902f58acdedebc",
+      "hash": "9c249223e7d5562a9e48572f89266cff24655d59787d2f70b8ac6ad9115e4405",
       "title": "DJI OSD",
       "firmware_version": [
         "4.4"
@@ -187,7 +187,7 @@
     },
     {
       "fullPath": "presets/4.4/rc_link/defaults.txt",
-      "hash": "7780626cc92222a40a4f32b9a22d8fe33c9a68a2a3dc047beb53538b52b16cb9",
+      "hash": "f4574d8bfa6938b458b83c073eb4d0ada2267020fd327362315c254a980d9860",
       "title": "Default 4.4 RC Link settings",
       "firmware_version": [
         "4.4"
